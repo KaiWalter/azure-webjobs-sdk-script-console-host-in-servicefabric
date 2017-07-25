@@ -1,0 +1,10 @@
+{
+    "tracing": {
+      // The tracing level used for console logging.
+      // The default is 'info'. Options are: { off, error, warning, info, verbose }
+      "consoleLevel": "verbose",
+      // Value determining what level of file logging is enabled.
+      // The default is 'debugOnly'. Options are: { never, always, debugOnly }
+      "fileLoggingMode": "always"
+    }
+}
